@@ -6,5 +6,5 @@ Working with tkinter, socket.py, cloudflare spectrum, &amp; ddos scripting.
 1. Build the client & server of the TCP application
 2. Write a basic GUI
 3. Deploy a Cloudflare Spectrum application - TCP-layer DDoS protection
-4. DDoS my application and record the results
+4. DoS my application and record the results
 
